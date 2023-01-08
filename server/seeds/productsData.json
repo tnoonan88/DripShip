@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Nike Air Force 1",
+    "price": "130",
+    "stock": "5",
+    "image": "../assets/NikeAF1.png"
+  },
+  {
+    "name": "Nike Air Max 90",
+    "price": "125",
+    "stock": "10",
+    "image": "../assets/NikAirMax90.png"
+  },
+  {
+    "name": "Nike Air Max 97",
+    "price": "175",
+    "stock": "3",
+    "image": "../assets/NikeAirMax97.png"
+  },
+  {
+    "name": "Nike React Infinity Run Flyknit 3",
+    "price": "160",
+    "stock": "12",
+    "image": "../assets/NikeReactInfinity.png"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 38",
+    "price": "120",
+    "stock": "8",
+    "image": "../assets/NikeZoomPegasus.png"
+  },
+  {
+    "name": "Nike Air Jordan 1 Mid",
+    "price": "120",
+    "stock": "11",
+    "image": "../assets/NikeAirJordan1.png"
+  },
+  {
+    "name": "Nike LeBron 19",
+    "price": "200",
+    "stock": "13",
+    "image": "../assets/NikeLebron19.png"
+  },
+  {
+    "name": "Nike Air Griffey Max 1",
+    "price": "170",
+    "stock": "8",
+    "image": "../assets/NikeAirGriffey.png"
+  },
+  {
+    "name": "Nike Air VaporMax",
+    "price": "210",
+    "stock": "7",
+    "image": "../assets/NikeAirVaporMax.png"
+  },
+  {
+    "name": "Nike Go FlyEase",
+    "price": "120",
+    "stock": "22",
+    "image": "../assets/NikeGoFlyEase.png"
+  },
+  {
+    "name": "Nike Kyrie Infinity",
+    "price": "130",
+    "stock": "30",
+    "image": "../assets/NikeKyrieInfinity.png"
+  }
+]

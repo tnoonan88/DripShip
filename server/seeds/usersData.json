@@ -1,0 +1,72 @@
+[
+    {
+      "firstname": "Jeff",
+      "lastname": "Jarvis",
+      "email": "jeff@email.com",
+      "password": "secretpassword",
+      "admin": "true"
+    },
+    {
+      "firstname": "Amy",
+      "lastname": "Wilhoite",
+      "email": "amy@email.com",
+      "password": "secretpassword",
+      "admin": "true"
+    },
+    {
+      "firstname": "Tom",
+      "lastname": "Noonan",
+      "email": "tom@email.com",
+      "password": "secretpassword",
+      "admin": "true"
+    },
+    {
+      "firstname": "Jordan",
+      "lastname": "Ross",
+      "email": "jordan@email.com",
+      "password": "secretpassword",
+      "admin": "true"
+    },
+    {
+      "firstname": "Robb",
+      "lastname": "Stark",
+      "email": "robb@email.com",
+      "password": "secretpassword",
+      "admin": "false"
+    },
+    {
+      "firstname": "Ned",
+      "lastname": "Stark",
+      "email": "ned@email.com",
+      "password": "secretpassword",
+      "admin": "false"
+    },
+    {
+      "firstname": "Jon",
+      "lastname": "Snow",
+      "email": "jon@email.com",
+      "password": "secretpassword",
+      "admin": "false"
+    },
+    {
+      "firstname": "Bran",
+      "lastname": "Stark",
+      "email": "bran@email.com",
+      "password": "secretpassword",
+      "admin": "false"
+    },
+    {
+      "firstname": "Arya",
+      "lastname": "Stark",
+      "email": "arya@email.com",
+      "password": "secretpassword",
+      "admin": "false"
+    },
+    {
+      "firstname": "Sansa",
+      "lastname": "Stark",
+      "email": "sansa@email.com",
+      "password": "secretpassword",
+      "admin": "false"
+    }
+  ]
